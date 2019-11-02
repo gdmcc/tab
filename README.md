@@ -1,2 +1,2 @@
-# newtab
+# tab
 the New Tab
